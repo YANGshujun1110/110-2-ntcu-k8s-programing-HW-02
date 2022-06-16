@@ -1,4 +1,4 @@
-module 110-2-ntcu-k8s-programing-HW-02
+module github.com/YANGshujun1110/110-2-ntcu-k8s-programing-HW-02.git
 
 go 1.17
 
