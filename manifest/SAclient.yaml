@@ -34,7 +34,7 @@ rules:
       - ""
       - "apps"
     resources:
-      - deployment
+      - deployments
       - services
     verbs: 
       - get
